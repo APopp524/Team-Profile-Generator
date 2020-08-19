@@ -20,6 +20,6 @@ Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 
 
-### Link to Example
-Check an example Generated Team Profile!
-https://apopp524.github.io/Team-Profile-Generator/
+### Live Example
+
+
