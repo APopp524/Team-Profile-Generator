@@ -19,7 +19,3 @@ Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 ![Screen Shot 2020-08-19 at 2 52 28 PM](https://user-images.githubusercontent.com/64044377/90686466-f9793800-e230-11ea-97c8-166b81f20793.png)
 
 
-
-### Live Example
-[Untitled_ Aug 19, 2020 6_27 PM.gif.zip](https://github.com/APopp524/Team-Profile-Generator/files/5099840/Untitled_.Aug.19.2020.6_27.PM.gif.zip)
-
