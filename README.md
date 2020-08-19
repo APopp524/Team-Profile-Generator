@@ -21,5 +21,5 @@ Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 
 ### Live Example
-
+[Untitled_ Aug 19, 2020 6_27 PM.gif.zip](https://github.com/APopp524/Team-Profile-Generator/files/5099840/Untitled_.Aug.19.2020.6_27.PM.gif.zip)
 
