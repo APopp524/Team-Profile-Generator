@@ -5,7 +5,7 @@
 To get started run npm i inquirer. Once completed, run node app.js and complete the prompts.
 
 ### Description
-As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles.
+The Team Profile Generator creates a webpage that displays a team's basic info and provides quick access to emails and GitHub profiles.
 
 ### Technologies That Were Used
 Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
