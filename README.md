@@ -20,5 +20,4 @@ Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 
 ### Demo
-<img src="![Untitled_ Aug 19, 2020 6_27 PM](https://user-images.githubusercontent.com/64044377/90701331-c2654f80-e24d-11ea-8eaf-b1b3f6c3c123.gif)
-" width="150" height="280">
+<img src="![](https://user-images.githubusercontent.com/64044377/90701331-c2654f80-e24d-11ea-8eaf-b1b3f6c3c123.gif)" width="150" height="280">
