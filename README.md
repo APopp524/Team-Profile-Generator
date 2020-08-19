@@ -8,9 +8,11 @@ As a manager I want to generate a webpage that displays my team's basic info so 
 Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 ### Screenshots
-...
+
+![Screen Shot 2020-08-19 at 2 52 28 PM](https://user-images.githubusercontent.com/64044377/90686466-f9793800-e230-11ea-97c8-166b81f20793.png)
 
 
-### Li
+
+### Link to Example
 Check an example Generated Team Profile!
 ...
