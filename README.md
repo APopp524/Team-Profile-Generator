@@ -20,6 +20,6 @@ Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 
 ### Demo
-<iframe src="https://drive.google.com/file/d/1NHCNooxC9GPd7zQmOw-hAJSkkL_Yloe3/preview" width="640" height="480"></iframe>
+
 
 https://drive.google.com/file/d/1NHCNooxC9GPd7zQmOw-hAJSkkL_Yloe3/view
